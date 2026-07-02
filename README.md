@@ -1,5 +1,4 @@
-# Marko Medved
+# Hi, I'm Marko Medved 👋
 
-**Research Student**
-**Ubiquitous Systems Laboratory**
-Nara Institute of Science and Technology (NAIST)
+🎓 **Research Student** at the **Ubiquitous Systems Laboratory**
+🏫 **Nara Institute of Science and Technology (NAIST)**
