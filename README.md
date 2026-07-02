@@ -7,6 +7,7 @@ Research Student at the **Ubiquitous Systems Laboratory**
 **Research Interests**
 
 * Computer Vision
-* Machine Learning
-* Video Understanding
-* Human Activity Recognition
+* Deep Learning
+* Action Recognition
+* Action Localization
+* Few Shot learning
