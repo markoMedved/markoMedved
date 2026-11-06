@@ -8,6 +8,8 @@ Research Student at the **Ubiquitous Systems Laboratory**
 
 * Computer Vision
 * Deep Learning
+* Re-Identification
+* Video Understanding
 * Action Recognition
 * Action Localization
 * Few Shot learning
